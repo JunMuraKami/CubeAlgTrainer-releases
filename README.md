@@ -18,9 +18,9 @@ A free Android app for learning speedcubing algorithms: study, spaced-repetition
 
 ## ダウンロード / Download
 
-[**Releases**](../../releases/latest) から APK を入手してください。
+準備中です。公開するときは、このリポジトリの Releases に載せます。
 
-インストールには、端末の「提供元不明のアプリ」のインストールを許可する必要があります。Android 8.0 以上が対象です。
+Coming soon. It will be published on this repository's Releases page.
 
 ## 本物の APK かどうかの確認 / Verifying the APK
 

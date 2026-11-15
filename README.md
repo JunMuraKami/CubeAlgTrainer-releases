@@ -48,6 +48,6 @@ apksigner verify --print-certs CubeAlgTrainer-x.y.z.apk
 
 ## 利用条件 / Terms
 
-[LICENSE](LICENSE) を参照してください。個人での利用は自由ですが、APK の再配布・転載・改変版の配布は禁止です。
+[LICENSE](LICENSE) を参照してください。個人での利用は自由ですが、現時点でのAPK の再配布等は禁止とします。
 
 See [LICENSE](LICENSE). Personal use is free; redistributing the APK or distributing modified versions is not allowed.

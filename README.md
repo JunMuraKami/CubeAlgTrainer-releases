@@ -1,8 +1,8 @@
 # CubeAlgTrainer
 
-ルービックキューブのアルゴリズムを覚えるための Android アプリです。手順の学習・復習・タイマー・3D キューブ操作がひとつになっています。無料で、通信もアカウントも使いません。
+ルービックキューブのアルゴリズムを覚えるための Android アプリです。手順の学習・復習・タイマー・3D キューブ操作がひとつになっています。無料で、アカウントは要りません。通信は、新しいバージョンの確認だけです(設定でオフにできます)。
 
-A free Android app for learning speedcubing algorithms: study, spaced-repetition review, a timer and a 3D virtual cube in one place. No network access, no account.
+A free Android app for learning speedcubing algorithms: study, spaced-repetition review, a timer and a 3D virtual cube in one place. No account. The only network use is the update check (can be turned off).
 
 ![Screens](images/screens-1.png)
 ![Screens](images/screens-2.png)
@@ -13,8 +13,10 @@ A free Android app for learning speedcubing algorithms: study, spaced-repetition
 - **復習**: 間隔反復、クイズ、トレーニング。トレーニングには、3x3 のクロスの最短手を考える「クロス読み」もあります。
 - **向きごとのメイン手順**: OLL・PLL で、パターンの向きごとに別のメイン手順を設定できます。
 - **3D 入力**: キューブのステッカーをスワイプして手順を記録できます。2x2〜5x5 に対応し、同じ軸の回転は手順リストと同じ表記にまとまります。
+- **クロス読み・区間タイマー**: 3x3 の最短クロスを考える練習(トレーニング内)と、CFOP・Roux・自分で決めた区間ごとのタイム記録。
 - **タイマー**: 3x3〜7x7、片手、ピラミンクス、スキューブ、メガミンクス、スクエア1、クロック。スクランブル表示、統計、CSV の読み込み・書き出し。
 - **Virtual Cube**: 画面上のキューブを指で回して解くゲーム。2x2〜5x5 に対応。
+- **アップデートの確認**: 起動時と設定のボタンで、GitHub の公開リリースに新しいバージョンがないか確認します。あればリリースページをブラウザで開けます。通信はこの確認だけで、データは送りません。
 - 日本語・English
 
 ## ダウンロード / Download
